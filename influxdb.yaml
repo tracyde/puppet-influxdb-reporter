@@ -1,0 +1,6 @@
+---
+:influxdb_server: 'localhost'
+:influxdb_port: 8649
+:influxdb_username: 'admin'
+:influxdb_password: 'changeme'
+:influxdb_database: 'stats'
