@@ -1,0 +1,14 @@
+{
+  "name": "tracyde-influxdb_reporter",
+  "version": "0.1.0",
+  "author": "tracyde",
+  "summary": "A Puppet report processor for sending metrics to an InfluxDB server.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/tracyde/puppet-influxdb-reporter",
+  "issues_url": "https://github.com/tracyde/puppet-influxdb-reporter/issues",
+  "project_page": "https://github.com/tracyde/puppet-influxdb-reporter",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+

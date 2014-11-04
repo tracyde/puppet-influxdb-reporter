@@ -1,4 +1,4 @@
-puppet-influxdb-reporter
+tracyde-influxdb_reporter
 ==============
 
 Description
@@ -20,7 +20,7 @@ Installation & Usage
 
         $ sudo gem install influxdb
 
-2.  Install puppet-influxdb-reporter as a module in your Puppet master's module
+2.  Install tracyde-influxdb_reporter as a module in your Puppet master's module
     path.
 
 3.  Update the `influxdb_server`, `influxdb_port`, `influxdb_username`, `influxdb_password`, 
