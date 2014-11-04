@@ -1,4 +1,4 @@
-tracyde-influxdb_reporter
+influxdb_reporter
 ==============
 
 [![Puppet Forge](http://img.shields.io/puppetforge/v/tracyde/influxdb_reporter.svg)](https://forge.puppetlabs.com/tracyde/influxdb_reporter)
