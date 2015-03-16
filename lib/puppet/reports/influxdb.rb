@@ -32,7 +32,8 @@ Puppet::Reports.register_report(:influxdb) do
       :username => INFLUXDB_USER,
       :password => INFLUXDB_PASS,
       :port => INFLUXDB_PORT,
-      :server => INFLUXDB_SERVER
+      :server => INFLUXDB_SERVER,
+      :retry => 4
     })
     self.metrics.each { |metric,data|
       data.values.each { |val| 
